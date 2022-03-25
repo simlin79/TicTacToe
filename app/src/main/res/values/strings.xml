@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+      <string name="to_green">New Game</string>
+    <string name="victory">V I C T O R Y</string>
+    <string name="draw">IT IS A DRAW</string>
+    <string name="lost">YOU HAVE LOST</string>
+    <string name="Nuliukai">YOU PLAY \'O\'</string>
+    <string name="Kryziukai">YOU PLAY \'X\'</string>
+
+</resources>

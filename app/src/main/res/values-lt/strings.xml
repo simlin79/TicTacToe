@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kryžiukai Nuliukai</string>
+    <string name="to_green">Naujas žaidimas</string>
+    <string name="victory">P E R G A L Ė</string>
+    <string name="draw">L Y G I O S I O S</string>
+    <string name="lost">P R A L A I M Ė J O T E</string>
+    <string name="Nuliukai">Žaidžiate \'O\'</string>
+    <string name="Kryziukai">Žaidžiate \'X\'</string>
+</resources>
